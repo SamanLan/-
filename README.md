@@ -8,9 +8,12 @@
 
 #### 2016年10月11日 00:03:29
   1. 重新学习Recyclerview
-  学习地址：http://blog.csdn.net/lmj623565791/article/details/45059587
+  
+  学习地址：http://blog.csdn.net/lmj623565791/article/details/45059587
   
   2. 用shape来画一个阴影背景（不想用cardview的替代方案）
+  
   学习地址：http://www.jianshu.com/p/8319fbc19c37#
+  
   
  ***
