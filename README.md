@@ -7,6 +7,14 @@
 以此记录每天的学习经历
 
 ***
+#### 2016年10月12日 01:25:42
+  1. 告别fragment重叠（使用add，hide操作fragment，在activity重启时保存fragment状态使其不重叠）
+  
+  学习地址：http://www.jianshu.com/p/c12a98a36b2b#
+  
+  2. 简单封装上述方法+TabFragment（就是类似微信主界面，封装一下，不用每次都写那么多代码，形成自己的类库）
+  
+***
 #### 2016年10月11日 00:03:29
   1. 重新学习Recyclerview
   
@@ -19,11 +27,4 @@
 
 ***
 
-#### 2016年10月12日 01:25:42
-  1. 告别fragment重叠（使用add，hide操作fragment，在activity重启时保存fragment状态使其不重叠）
-  
-  学习地址：http://www.jianshu.com/p/c12a98a36b2b#
-  
-  2. 简单封装上述方法+TabFragment（就是类似微信主界面，封装一下，不用每次都写那么多代码，形成自己的类库）
-  
-***
+
