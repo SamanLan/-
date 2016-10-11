@@ -13,18 +13,16 @@
   
   2. 用shape来画一个阴影背景（不想用cardview的替代方案）
   
-  学习地址：http://www.jianshu.com/p/8319fbc19c37#
+  学习地址：http://www.jianshu.com/p/8319fbc19c37#
 
 
- ***
- ***
- 
- #### 2016年10月12日 01:25:42
-  1. 告别fragment重叠（使用add，hide操作fragment，在activity重启时保存fragment状态使其不重叠）
-  
-  学习地址：http://www.jianshu.com/p/c12a98a36b2b#
-  
-  2. 简单封装上述方法+TabFragment（就是类似微信主界面，封装一下，不用每次都写那么多代码，形成自己的类库）
-  
 ***
+
+#### 2016年10月12日 01:25:42
+  1. 告别fragment重叠（使用add，hide操作fragment，在activity重启时保存fragment状态使其不重叠）
+  
+  学习地址：http://www.jianshu.com/p/c12a98a36b2b#
+  
+  2. 简单封装上述方法+TabFragment（就是类似微信主界面，封装一下，不用每次都写那么多代码，形成自己的类库）
+  
 ***
