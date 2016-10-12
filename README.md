@@ -9,6 +9,7 @@
 ***
 ####2016年10月13日 03:12:49
 1. 学习Shared Elements Transition 共享元素动画（用RecyclerView+Shared Elements Transition做一个demo，了解用法）
+
 学习地址：http://www.open-open.com/lib/view/open1416663769680.html
 
 ***
