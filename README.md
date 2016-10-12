@@ -7,6 +7,11 @@
 以此记录每天的学习经历
 
 ***
+####2016年10月13日 03:12:49
+1. 学习Shared Elements Transition 共享元素动画（用RecyclerView+Shared Elements Transition做一个demo，了解用法）
+学习地址：http://www.open-open.com/lib/view/open1416663769680.html
+
+***
 #### 2016年10月12日 01:25:42
   1. 告别fragment重叠（使用add，hide操作fragment，在activity重启时保存fragment状态使其不重叠）
   
@@ -26,5 +31,4 @@
 
 
 ***
-
 
