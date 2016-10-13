@@ -7,6 +7,10 @@
 以此记录每天的学习经历
 
 ***
+#### 2016年10月14日 02:20:19
+  1. 学习Shared Elements Transition 共享元素动画（用RecyclerView+Shared Elements Transition做一个demo，了解用法）（二）
+
+***
 ####2016年10月13日 03:12:49
   1. 学习Shared Elements Transition 共享元素动画（用RecyclerView+Shared Elements Transition做一个demo，了解用法）
 
