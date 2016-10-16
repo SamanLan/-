@@ -7,6 +7,12 @@
 以此记录每天的学习经历
 
 ***
+#### 2016年10月17日 00:39:45
+  1. 学习自定义dialog（通过修改系统自带dialog）
+  2. 看书（Effective Java），前三章
+
+
+***
 #### 2016年10月14日 02:20:19
   1. 学习Shared Elements Transition 共享元素动画（用RecyclerView+Shared Elements Transition做一个demo，了解用法）（二）
 
